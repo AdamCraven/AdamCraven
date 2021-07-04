@@ -1,6 +1,6 @@
 ### Hello there 👋
 
- 🔭 - I'm currently building principles.dev. It's something that would not leave my mind for years, so I had to build it when I got the chance.
+ 🔭 - I'm currently building [principles.dev](https://principles.dev). It's something that would not leave my mind for years, so I had to build it when the opportunity came up
 
 
 <!--
