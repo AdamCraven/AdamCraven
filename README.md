@@ -1,7 +1,6 @@
 ### Hello there 👋
 
- 🔭 - I'm currently building [principles.dev](https://principles.dev). It's something that would not leave my mind for years, so I had to build it when the opportunity came up
-
+ 🔭 - I'm currently building [principles.dev](https://principles.dev).
 
 <!--
 **AdamCraven/AdamCraven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
