@@ -3,7 +3,11 @@
 
 ### Hello there 👋
 
- 🔭 - I'm currently building [principles.dev](https://principles.dev).
+
+I'm Adam, I'm currently building [principles.dev](https://principles.dev). My mission is to make software engineering better for everyone. By capturing the best principles from the best in the world at what they do. And to organise and share that knowledge, freely.
+
+You can follow me on twitter @principles_dev if you want to hear about using principles in software engineering. You can also get in touch at adam@[the above domain].
+
 
 
 
